@@ -14,7 +14,7 @@
 // @name:lt AdGuard Extra Beta
 // @name:hr AdGuard Extra Beta
 // @namespace    adguard
-// @version      1.2.4
+// @version      1.2.5
 // @description AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough. 
 // @description:ko AdGuard Extra는 일반적인 광고 차단 규칙이 충분하지 않은 복잡한 문제를 해결하도록 설계되었습니다. 
 // @description:zh AdGuard Extra在常规广告阻止规则不够时能够解决复杂情况。 
